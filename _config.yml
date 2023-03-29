@@ -19,7 +19,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : North Space Digital
 email      : contact@northspace.digital #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "North Space Digital is a leading technology solutions provider, specializing in IT consulting, cloud solutions, software development, AI applications, and smart home technologies. Based in Chiang Mai, our team of dedicated experts has over a decade of experience in delivering innovative, tailored solutions that empower businesses and elevate everyday living."
 author     : North Space Digital
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

@@ -43,11 +43,11 @@ en: &DEFAULT_EN
         desc: "Redefine modern living with our Smart Home and IoT solutions, combining the latest technology with user-centric design to create intuitive, connected ecosystems that empower you to take full control of your home and elevate your everyday life."
         icon: fas fa-thermometer-half
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+  # portfolio:
+  #   title: "Portfolio"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   section: portfolio
+  #   closebutton: "Close Project"
 
   # timeline:
   #   title: "Timeline"
@@ -90,11 +90,11 @@ en: &DEFAULT_EN
     Location: Chiang Mai, Thailand"
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
       # - title: "envato"
       #   url: https://github.com/raviriley/agency-jekyll-theme
       #   logo: assets/img/clients/envato.jpg
