@@ -18,29 +18,29 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Anything possible with our excellent team"
     section: services
     list:
       - title: "IT Consultant"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Transform your technology journey with our dedicated IT consulting services, offering a unique blend of industry experience, strategic vision, and innovative solutions to help you unlock the full potential of your business in an ever-evolving digital world."
         icon: fas fa-user-tie
       - title: "Website & Web Application"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Unlock your online success with our comprehensive website and web application services. Our dedicated team excels in crafting bespoke, responsive, and feature-rich solutions that captivate users, drive engagement, and ensure a competitive edge in the digital landscape."
         icon: fas fa-desktop
       - title: "Mobile Application"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Elevate your business with our innovative mobile app development services. We blend cutting-edge technology, intuitive design, and strategic insights to create engaging applications that drive user satisfaction and boost your digital presence."
         icon: fas fa-mobile-alt
       - title: "Appointment System"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Revolutionize your booking experience with our cutting-edge appointment system solution, offering seamless scheduling, real-time availability, and automated reminders to drive customer satisfaction and optimize your business operations."
         icon: far fa-calendar-check
       - title: "Automation Chatbot Application"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Elevate your customer engagement with our AI-powered automation chatbot application service, designed to provide instant, personalized support and streamline your communication processes, while boosting customer satisfaction and operational efficiency."
         icon: fas fa-robot
       - title: "Big Data Solution"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Unleash your data potential with our end-to-end Big Data solutions, delivering scalable, efficient, and reliable analytics that equip your organization with the actionable intelligence needed to thrive in the competitive and ever-evolving digital market."
         icon: fas fa-chart-pie
       - title: "Smart Home and IoT"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Redefine modern living with our Smart Home and IoT solutions, combining the latest technology with user-centric design to create intuitive, connected ecosystems that empower you to take full control of your home and elevate your everyday life."
         icon: fas fa-thermometer-half
 
   portfolio:
