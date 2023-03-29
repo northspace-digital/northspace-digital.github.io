@@ -18,7 +18,7 @@ url    : "https://northspace-digital.github.io" # the base hostname & protocol f
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : North Space Digital
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : contact@northspace.digital #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : North Space Digital
 # logo:     #optional, defaults to site title
