@@ -21,9 +21,9 @@ title      : North Space Digital
 email      : contact@northspace.digital #this is also the email contact forms will go to
 description: "North Space Digital is a leading technology solutions provider, specializing in IT consulting, cloud solutions, software development, AI applications, and smart home technologies. Based in Chiang Mai, our team of dedicated experts has over a decade of experience in delivering innovative, tailored solutions that empower businesses and elevate everyday living."
 author     : North Space Digital
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\clients\logo_export.png
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
