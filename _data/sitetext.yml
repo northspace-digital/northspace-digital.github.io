@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "IT Consultant"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-user-tie-hair
+        icon: fas fa-user-tie
       - title: "Website & Web Application"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-browser
       - title: "Mobile Application"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fab fa-mobile-screen
+        icon: fab fa-mobile-alt
       - title: "Appointment System"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fab fa-mobile-screen
